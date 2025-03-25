@@ -1,0 +1,68 @@
+
+.bodoni-moda-sc{
+    font-family: "Bodoni Moda SC", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.bodoni-moda {
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header-row {
+    padding: 20px;
+}
+
+.content-row {
+    padding: 20px;
+}
+
+.header-image {
+    max-width: 100%;
+}
+
+.my-navbar {
+    background-color: #f8f9fa;
+    font-size: 1.1em;
+    margin-left: auto;
+}
+
+@media (min-width: 820px) {
+    .my-navbar {
+        padding-left: 30px;
+    }
+}
+
+.my-navbar a {
+    color: black;
+}
+.my-navbar a:hover {
+    color: #94a989;
+}
+
+a {
+    color: #2e5716;
+}
+
+a:hover {
+    color: #94a989;
+}
+
+#email {
+    font-size: .8em;
+}
+
+#ziggy-slideshow {
+    max-width: 80%;
+    margin: 50px;
+    margin-top: 0px;
+}
