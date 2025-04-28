@@ -5,10 +5,10 @@ $(document).ready(function() {
             .append($("<h1>").text("Emily Saunders").addClass("bodoni-moda-sc"))
         )
         .append($("<div>").addClass("row")
-            .append($("<h2>").text("Projects").addClass("bodoni-moda-sc"))
+            .append($("<h3>").text("Projects").addClass("bodoni-moda-sc"))
         )
         .append($("<div>").addClass("row")
-            .append($("<p>").text("[List of projects]"))
+            .append($("<p>").text("[Soon to be updated]"))
         )
     )
 

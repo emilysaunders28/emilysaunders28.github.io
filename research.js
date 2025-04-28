@@ -5,7 +5,7 @@ $(document).ready(function() {
             .append($("<h1>").text("Emily Saunders").addClass("bodoni-moda-sc"))
         )
         .append($("<div>").addClass("row")
-            .append($("<h2>").text("Research").addClass("bodoni-moda-sc"))
+            .append($("<h3>").text("Research").addClass("bodoni-moda-sc"))
         )
         .append($("<div>").addClass("row")
             .append($("<p>").text("My research focuses on persistent homology, a tool in topological data analysis that identifies features in data by applying topological methods at different scales and examining their persistence across varying parameter values."))
