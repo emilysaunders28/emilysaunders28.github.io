@@ -5,7 +5,7 @@ $(document).ready(function() {
                 .append($("<h3>").text("About me"))
             )
             .append($("<div>").addClass("row")
-                .append($("<p>").text("I am a PhD student in the Department of Mathematics at Columbia University, supervised by Professor Andrew Blumberg. My research interests are in the field of topological data analysis, specifically generalizations of persistent homology. I am expected to graduate in May 2025."))
+                .append($("<p>").text("I recently completed a PhD in Mathematics at Columbia University, where I was advised by Professor Andrew Blumberg. My research focused on topological data analysis, with an emphasis on generalizations of persistent homology. I am currently seeking opportunities in industry where I can apply my skills in mathematics, data analysis, and software development to real-world problems."))
                 .append($("<p>").append("Click ").append($("<a>").attr("href", "media/cv.pdf").attr("target","_blank").text("here")).append(" to view my CV."))
             )
         )
