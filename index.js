@@ -6,7 +6,7 @@ $(document).ready(function() {
             )
             .append($("<div>").addClass("row")
                 .append($("<p>").text("I recently completed a PhD in Mathematics at Columbia University, where I was advised by Professor Andrew Blumberg. My research focused on topological data analysis, with an emphasis on generalizations of persistent homology. I am currently seeking opportunities in industry where I can apply my skills in mathematics, data analysis, and software development to real-world problems."))
-                .append($("<p>").append("Click ").append($("<a>").attr("href", "media/cv.pdf").attr("target","_blank").text("here")).append(" to view my CV."))
+                .append($("<p>").append("Click ").append($("<a>").attr("href", "media/cv.pdf").attr("target","_blank").text("here")).append(" to view my resume."))
                 .append($("<p>").append("Click ").append($("<a>").attr("href", "https://github.com/emilysaunders28").attr("target","_blank").text("here")).append(" to view my GitHub."))
             )
         )
